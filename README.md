@@ -1,1 +1,1 @@
-# CDT
+Snake Game in Python
